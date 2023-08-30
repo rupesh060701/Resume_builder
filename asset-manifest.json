@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rupesh060701/Resume_builder.git/static/css/main.6230fc34.css",
-    "main.js": "/rupesh060701/Resume_builder.git/static/js/main.15b2f756.js",
-    "static/media/template2.jpeg": "/rupesh060701/Resume_builder.git/static/media/template2.46e35ba0d590a1040d7e.jpeg",
-    "static/media/template1.jpeg": "/rupesh060701/Resume_builder.git/static/media/template1.3db4c9070a3132b79775.jpeg",
-    "static/media/resume1.svg": "/rupesh060701/Resume_builder.git/static/media/resume1.9d84a26320793e52360d7a292d511d47.svg",
-    "index.html": "/rupesh060701/Resume_builder.git/index.html",
-    "main.6230fc34.css.map": "/rupesh060701/Resume_builder.git/static/css/main.6230fc34.css.map",
-    "main.15b2f756.js.map": "/rupesh060701/Resume_builder.git/static/js/main.15b2f756.js.map"
+    "main.css": "/github.io/Resume_builder.git/static/css/main.6230fc34.css",
+    "main.js": "/github.io/Resume_builder.git/static/js/main.cd51f42a.js",
+    "static/media/template2.jpeg": "/github.io/Resume_builder.git/static/media/template2.46e35ba0d590a1040d7e.jpeg",
+    "static/media/template1.jpeg": "/github.io/Resume_builder.git/static/media/template1.3db4c9070a3132b79775.jpeg",
+    "static/media/resume1.svg": "/github.io/Resume_builder.git/static/media/resume1.9d84a26320793e52360d7a292d511d47.svg",
+    "index.html": "/github.io/Resume_builder.git/index.html",
+    "main.6230fc34.css.map": "/github.io/Resume_builder.git/static/css/main.6230fc34.css.map",
+    "main.cd51f42a.js.map": "/github.io/Resume_builder.git/static/js/main.cd51f42a.js.map"
   },
   "entrypoints": [
     "static/css/main.6230fc34.css",
-    "static/js/main.15b2f756.js"
+    "static/js/main.cd51f42a.js"
   ]
 }
