@@ -1,0 +1,24 @@
+.btn{
+    background-color: var(--blue);
+    width: fit-content;
+    padding: 0.2rem 1.5rem;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 0.5rem;
+    border: 2px solid transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: transparent;
+    color: var(--blue);
+    border: 2px solid var(--blue);
+    transition-property: all;
+    transition-timing-function: ease;
+    transition-duration: 0.5s;
+}
